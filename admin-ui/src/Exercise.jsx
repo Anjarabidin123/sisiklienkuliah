@@ -10,18 +10,18 @@ function Exercise() {
         </h1>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
           <UserCard 
-          name="Aksioma"
-          email="aksioma@example.com"
+          name="Nugroho"
+          email="anjarbdn@gmail.com"
           street="Jl. Merdeka No. 123"
           city="Jakarta"
           />  
-          <UserCard name="Tsalatsa"
-          email="tsalatsa@example.com"
+          <UserCard name="Anjar"
+          email="anjarbdn@gmail.com"
           street="Jl. Sudirman No. 456"
           city="Bandung"
           />
-          <UserCard name="Yufuna"
-          email="yufuna@example.com"
+          <UserCard name="Abidin"
+          email="anjarbdn@gmail.com"
           street="Jl. Diponegoro No. 789"
           city="Surabaya"
           />
